@@ -1,1 +1,10 @@
-
+[Micrometals]:           https://www.micrometals.com/design-and-applications/software-guide/#Quick-Start
+[OpenMagnetics]:         https://openmagnetics.com/
+[Auto Planar Magnetics]: https://autoplanar.com/
+[Coilcraft]:             https://www.coilcraft.com/en-us/tools/
+[TDK]:                   https://tools.tdk-electronics.tdk.com/mdt/index.php
+[TDK]:                   https://product.tdk.com/en/search/inductor/core_loss_simulation
+[Magnetica]:             https://www.e-magnetica.pl/doku.php/calculators
+[Bourns]:                https://bourns.com/resources/inductor-loss-calculator
+[Bourns]:                https://bourns.com/resources/design-tools/design-files
+[Magnetics]:             https://www.mag-inc.com/Design/Design-Tools.aspx
