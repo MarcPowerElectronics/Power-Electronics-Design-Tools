@@ -1,5 +1,4 @@
 [Micrometals]:           https://www.micrometals.com/design-and-applications/software-guide/#Quick-Start
-[OpenMagnetics]:         https://openmagnetics.com/
 [Coilcraft]:             https://www.coilcraft.com/en-us/tools/
 [TDK]:                   https://tools.tdk-electronics.tdk.com/mdt/index.php
 [TDK]:                   https://product.tdk.com/en/search/inductor/core_loss_simulation
