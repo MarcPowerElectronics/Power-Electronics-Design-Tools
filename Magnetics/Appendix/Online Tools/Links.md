@@ -1,7 +1,7 @@
 [Micrometals]:           https://www.micrometals.com/design-and-applications/software-guide/#Quick-Start
 [Coilcraft]:             https://www.coilcraft.com/en-us/tools/
-[TDK]:                   https://tools.tdk-electronics.tdk.com/mdt/index.php
-[TDK]:                   https://product.tdk.com/en/search/inductor/core_loss_simulation
+[TDK]:                   https://www.tdk-electronics.tdk.com/en/180524/design-support/design-tools
+[TDK]:                   https://product.tdk.com/en/technicalsupport/sim-cal_studio/index.html
 [Magnetica]:             https://www.e-magnetica.pl/doku.php/calculators
 [Bourns]:                https://bourns.com/resources/inductor-loss-calculator
 [Bourns]:                https://bourns.com/resources/design-tools/design-files
