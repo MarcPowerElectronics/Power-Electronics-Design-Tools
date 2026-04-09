@@ -2,3 +2,4 @@
 [TDK Cores]:            https://www.tdk-electronics.tdk.com/en/ferrites#
 [Ferroxcube Materials]: https://www.ferroxcube.com/en-global/ak_material/index/power_conversion
 [Ferroxcube Cores]:     https://www.ferroxcube.com/en-global/products_ferroxcube/index/Overview#sec25
+[DMEGC]:                https://www.dmegc.com.cn/product.html
