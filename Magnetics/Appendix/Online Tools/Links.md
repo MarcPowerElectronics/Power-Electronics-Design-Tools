@@ -9,3 +9,4 @@
 [RedExpert]:             https://redexpert.we-online.com/we-redexpert/en/#/home
 [Panasonic]:             https://industrial.panasonic.com/ww/ds/pcc-loss-simulator
 [Samsung]:               https://product.samsungsem.com/index.do
+[Superworld]:            https://www.superworld.com.sg/
