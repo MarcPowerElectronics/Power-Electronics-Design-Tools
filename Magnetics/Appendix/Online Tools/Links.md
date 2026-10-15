@@ -10,3 +10,4 @@
 [Panasonic]:             https://industrial.panasonic.com/ww/ds/pcc-loss-simulator
 [Samsung]:               https://product.samsungsem.com/index.do
 [Superworld]:            https://www.superworld.com.sg/
+[Sunlord]:               https://www.sunlordinc.com/en/
